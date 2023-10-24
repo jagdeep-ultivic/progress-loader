@@ -33,7 +33,7 @@ android {
 }
 
 dependencies {
-    implementation(":app", ":mylibrary")
+    implementation(project(":mylibrary"))
 
 
     implementation("androidx.core:core-ktx:1.12.0")

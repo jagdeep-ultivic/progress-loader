@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+.tmp
+caches
+daemon
+kotlin-profile
+native

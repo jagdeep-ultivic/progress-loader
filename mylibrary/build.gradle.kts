@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.and.ploader.mylibrary"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 24
